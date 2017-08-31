@@ -1,12 +1,22 @@
 # insearchalias_mes
 A aplicação 'In Search of Alias' tem como objetivo de encontrar alias entre os contribuidores de um projeto no GitHub.
 
-<h2> Heurística </h2>
+<h2> Metodologia e Heurística </h2>
+
+<h3> Coleta </h3>
+<br/>  Coleta do nome e e-mail de cada contribuidor do repositório analisado.
+<br/>Nesta etapa o nome e o e-mail são tratados.
+    <ul>
+      <li> Se no campo do nome, possui um e-mail, gravamos apenas o prefixo como nome </li>
+      <li> Se no campo do e-mail, existe um código hash acoplado ao e-mail, consideramos a penas a parte válida do e-mail, deixando-o consistente, exemplo: <br/>sberlin@gmail.com@d779f126-a31b-0410-b53b-1d3aecad763e registramos apenas sberlin@gmail.com </li>
+   </ul>
+
 
 <h2> Exemplo </h2> 
 <b> Guice</b>
 <b> Entrada </b>
 <br/>URL: https://github.com/google/guice.git
+<br/>
 <br/>
 <b> Resultado </b>
 <br/>Alias 1
