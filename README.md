@@ -5,7 +5,7 @@ A aplicação 'In Search of Alias' tem como objetivo de encontrar alias entre os
 
 <h2> Exemplo </h2> 
 <b> Guice</b>
-<br/>
+<b> Entrada </b>
 <br/>URL: https://github.com/google/guice.git
 <br/>
 <b> Resultado </b>
