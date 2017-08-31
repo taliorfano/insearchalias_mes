@@ -8,9 +8,8 @@ A aplicação 'In Search of Alias' tem como objetivo de encontrar alias entre os
 <br/>
 <br/>URL: https://github.com/google/guice.git
 <br/>
-Resultado:
-<br/>
-<br/><br/>Alias 1
+<b> Resultado </b>
+<br/>Alias 1
 <br/>   limpbizkit - limpbizkit@d779f126-a31b-0410-b53b-1d3aecad763e
 <br/>   limpbizkit - limpbizkit@gmail.com
 <br/>
