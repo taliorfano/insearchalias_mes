@@ -3,9 +3,14 @@ Aplicação tem o objetivo de encontrar alias entre os contribuidores de um proj
 
 
 <b> Resultado </b> 
+<br/>
+<br/>
 Guice:
+<br/>
 URL: https://github.com/google/guice.git
+<br/>
 Alias presentes no repositorio:
+<br/>
 Alias 1
     limpbizkit - limpbizkit@d779f126-a31b-0410-b53b-1d3aecad763e
     limpbizkit - limpbizkit@gmail.com
