@@ -1,7 +1,7 @@
 # insearchalias_mes
 A aplicação 'In Search of Alias' tem como objetivo encontrar alias entre os contribuidores de um projeto no GitHub.
 
-<h2> Metodologia </h2>
+<h2> Sobre </h2>
 
 <h3> Coleta </h3>
 Coleta do nome e e-mail de cada contribuidor do repositório analisado. Nesta etapa, o nome e o e-mail são tratados para que os registros fiquem consistentes. Por exemplo, se no campo do nome, possui um e-mail, gravamos apenas o prefixo como send o nome.
