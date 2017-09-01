@@ -35,7 +35,7 @@ Coleta do nome e e-mail de cada contribuidor do repositório analisado. Nesta et
 <h3> Modo de usar
 <br/> Basta clonar o projeto e executar a classe App , que se encontra em 'br.ufmg.mes.DisambiguationHeuristic'.
 <br/> Após a execução, a aplicação irá solicitar como entrada a URL do repositório que será analisado.
-</br> Depois de informada a URL, basta aguardar alguns instantes e o resultado contendo a lista de alias será gerada.
+<br/> Depois de informada a URL, basta aguardar alguns instantes e o resultado contendo a lista de alias será gerada.
 
 <h3> Exemplo </h3> 
 <b> Guice</b>
@@ -66,4 +66,4 @@ Coleta do nome e e-mail de cada contribuidor do repositório analisado. Nesta et
 <br/>    sam - sberlin@gmail.com
 <br/>    sameb - sberlin@gmail.com
 <br/> 
-<br/> OBS> O Guice possui um total de 72 autores.
+<br/> OBS: O Guice possui um total de 72 autores.
