@@ -32,7 +32,7 @@ Coleta do nome e e-mail de cada contribuidor do repositório analisado. Nesta et
 
 <br/> Portanto, as heurística implementadas permitem detectar similaridades tanto entre o nome, quanto entre os e-mails dos desenvolvedores contribuidores.
 <br/>
-<h3> Modo de usar
+<h3> Modo de usar </h3>
 <br/> Basta clonar o projeto e executar a classe App , que se encontra em 'br.ufmg.mes.DisambiguationHeuristic'.
 <br/> Após a execução, a aplicação irá solicitar como entrada a URL do repositório que será analisado.
 <br/> Depois de informada a URL, basta aguardar alguns instantes e o resultado contendo a lista de alias será gerada.
